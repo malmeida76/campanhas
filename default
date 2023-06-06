@@ -1,13 +1,13 @@
 [btg_pactual]
 ativo=1
 texto=https://raw.githubusercontent.com/malmeida76/campanhas/main/btg_pactual?token=GHSAT0AAAAAACDJ6ECYEO2F4P6RSBPKKSTSZD6YSHQ
-imagens=1
+num_imagens=1
 imagem=https://play-lh.googleusercontent.com/0y84dcSeljAid36WeCs-9FWY4fENzxVilh1TS9G4jV30VHsFHJ3lGofMeS3w5hpvRk0D=w240-h480
 
 [infinity]
 ativo=1
 texto=https://raw.githubusercontent.com/malmeida76/campanhas/main/btg_pactual?token=GHSAT0AAAAAACDJ6ECYEO2F4P6RSBPKKSTSZD6YSHQ
-imagens=10
+num_imagens=10
 imagem.0=
 imagem.1=
 imagem.2=
@@ -19,3 +19,9 @@ imagem.7=
 imagem.8=
 imagem.9=
 
+[oifibra]
+ativo=1
+texto=https://raw.githubusercontent.com/malmeida76/campanhas/main/btg_pactual?token=GHSAT0AAAAAACDJ6ECYEO2F4P6RSBPKKSTSZD6YSHQ
+https://apretailer.com.br/click/647eb8f42bfa81327c05a17f/181673/300317/
+https://apretailer.com.br/click/647eb8f42bfa81327c05a17e/181674/300317/
+https://apretailer.com.br/click/647eb8f42bfa81327c05a180/181672/300317/
