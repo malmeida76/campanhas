@@ -9,6 +9,12 @@ texto=https://raw.githubusercontent.com/malmeida76/campanhas/main/btg_pactual?to
 imagens=1
 imagem.0=https://play-lh.googleusercontent.com/0y84dcSeljAid36WeCs-9FWY4fENzxVilh1TS9G4jV30VHsFHJ3lGofMeS3w5hpvRk0D=w240-h480
 
+[unopar]
+ativo=1
+texto=
+imagens=1
+imagem.0=https://apretailer.com.br/click/647eb8f32bfa81337a3e9702/181411/300317/
+
 [infinity]
 ativo=1
 texto=https://raw.githubusercontent.com/malmeida76/campanhas/main/infinitypay?token=GHSAT0AAAAAACDJ6ECY6JSJNZXSAYQMAUMUZD64VBQ
