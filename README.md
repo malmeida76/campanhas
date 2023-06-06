@@ -1,2 +1,2 @@
 # campanhas
-repositorio para configuração dos disparos em massa
+repositorio para configuração dos disparos em massa 2023
