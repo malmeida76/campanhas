@@ -14,12 +14,10 @@ wpp.1=552135270712
 
 ### CONFIGURAÇÃO DAS CAMPANHAS
 [campanhas]
-total=4
+total=3
 campanha.0=btg_pactual
-campanha.1=unopar
-campanha.2=infinity
-campanha.3=oifibra
-campanha.4=stone
+campanha.1=infinity
+campanha.2=stone
 
 [stone]
 ativo=1
