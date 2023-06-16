@@ -27,7 +27,7 @@ imagens=1
 imagem.0=https://play-lh.googleusercontent.com/0y84dcSeljAid36WeCs-9FWY4fENzxVilh1TS9G4jV30VHsFHJ3lGofMeS3w5hpvRk0D=w240-h480
 
 [unopar]
-ativo=1
+ativo=0
 texto=https://raw.githubusercontent.com/malmeida76/campanhas/main/unopar
 imagens=43
 imagem.0=https://raw.githubusercontent.com/malmeida76/campanhas/main/unopar.d/16748430211176.png
