@@ -19,6 +19,15 @@ campanha.0=btg_pactual
 campanha.1=unopar
 campanha.2=infinity
 campanha.3=oifibra
+campanha.4=stone
+
+[stone]
+ativo=1
+texto=https://raw.githubusercontent.com/malmeida76/campanhas/main/stone
+imagens=1
+imagem.0=https://res.cloudinary.com/dunz5zfpt//f_auto,c_limit,w_750,q_auto/site-stone/banner/adquira
+http://ap.rionetisp.com.br/click/6489e0882bfa815a7253fe0a/182672/300317/[id]/maturador
+
 
 [btg_pactual]
 ativo=1
